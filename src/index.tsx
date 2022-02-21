@@ -1,6 +1,8 @@
-import { render } from "react-dom";
+import * as ReactDOM from "react-dom";
 
 import App from "./App";
 
+import SignIn from "./pages/signin/SignIn";
+
 const rootElement = document.getElementById("root");
-render(<App />, rootElement);
+ReactDOM.render(<SignIn />, rootElement);
