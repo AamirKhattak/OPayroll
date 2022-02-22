@@ -10,11 +10,13 @@
   "main": "src/index.tsx",
   "dependencies": {
     "@emotion/react": "11.8.1",
-    "@emotion/styled": "11.8.1",
+    "@emotion/styled": "11.6.0",
     "@mui/icons-material": "5.4.2",
     "@mui/material": "5.4.2",
+    "@mui/types": "7.1.2",
     "react": "17.0.2",
     "react-dom": "17.0.2",
+    "react-router-dom": "6.2.1",
     "react-scripts": "4.0.3"
   },
   "devDependencies": {
